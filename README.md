@@ -13,7 +13,7 @@ This simple Python script demonstrates basic file and folder manipulation using 
 - Displays all `.txt` files in the folder
 - Moves all `.log` files into a new folder called `log/` in the root directory
 
-- 
+  
 
 ##  Tools & Concepts Used
 
@@ -22,8 +22,7 @@ This simple Python script demonstrates basic file and folder manipulation using 
 - `shutil` module for moving files
 - Conditional logic and loops
 - Error handling and automation basics
-
-- 
+ 
 
 
 ## 🧾 File Structure
