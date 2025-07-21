@@ -43,3 +43,6 @@ for file in folder_list:
         source_dir = os.path.join(folder_path, file)
         shutil.move(source_dir , dest_dir)
         print(f"The .log file {file} has been moved to {dest_dir}")
+
+
+os.makedirs('')
